@@ -1,0 +1,39 @@
+.title,
+.subtitle,
+.subtitle-reviews,
+.subtitle-benefit,
+.subtitle-services{
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.title{
+  font-family: "TrajanPro3Regular";
+  color: var(--accent-color);
+  margin-top: 75px;
+}
+
+.subtitle-services{
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 1375px;
+  font-size: 25.5px;
+  line-height: 32px;
+}
+
+.subtitle-benefit{
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 330px;
+  font-size: 25.5px;
+  line-height: 32px;
+}
+
+.subtitle-reviews{
+  margin-top: 15px;
+  margin-bottom: 50px;
+  width: 885px;
+  font-size: 25.5px;
+  line-height: 32px;
+}
